@@ -1,2 +1,3 @@
 # Code
-Principal Component Analysis using R programming
+PCA in R Programming (tidyverse)
+Rosalind as well
